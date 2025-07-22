@@ -42,12 +42,7 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-grey?style=flat&logo=ethernet&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-grey?style=flat&logo=internet-explorer&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-grey?style=flat&logo=internet-explorer&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-grey?style=flat&logo=cisco&logoColor=white)
-![EIGRP](https://img.shields.io/badge/EIGRP-grey?style=flat&logo=cisco&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLAN-grey?style=flat&logo=networkx&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP/IP-grey?style=flat&logo=ethernet&logoColor=white)
 
 
 ---
