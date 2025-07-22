@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76519559/275821183-57b879c9-52d0-41d6-a55b-b93d2122ed2b.png" width="300"/>
+  <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="300"/>
 </p>
 
 # 👋 Hi, I'm Lukesh Basnet
