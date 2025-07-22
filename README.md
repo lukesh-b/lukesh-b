@@ -10,9 +10,6 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 
 ## 🛠️ Tech Toolbox
 
-## 🧰 Languages & Tools
-## 🧰 Languages & Tools
-
 <div align="center">
 
 <!-- Languages -->
