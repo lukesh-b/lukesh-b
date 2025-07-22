@@ -99,13 +99,6 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 
 ---
 
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/lukesh-basnet)
-- 📧 [lukesh.b.codes@gmail.com](mailto:lukesh.b.codes@gmail.com)
-
----
-
 
 ## 📈 GitHub Stats
 
