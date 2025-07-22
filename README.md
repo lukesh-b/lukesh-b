@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Lukesh+Basnet;DevOps+%7C+ML+%7C+Data+Engineer;Cloud+Native+%7C+Infra+as+Code+%7C+K8s;Always+Learning+and+Building!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76519559/275821183-57b879c9-52d0-41d6-a55b-b93d2122ed2b.png" width="300"/>
+</p>
+
 # 👋 Hi, I'm Lukesh Basnet
 
 🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 📊 Data Engineer  
@@ -5,6 +13,14 @@
 
 ---
 I'm currently working on Terraform/Ansible for Infra and  Detection ML model for tracking changes.
+
+---
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/lukesh-basnet/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -96,5 +112,12 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 - 📈 Self-healing infra dashboards using Splunk  
 - 🧠 AI Troubleshooter: internal tool for Gen AI issue diagnosis  
 - 🐳 Kubernetes testbed with scalable mock services
+
+---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
