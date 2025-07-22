@@ -71,11 +71,12 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 
 ## 🧠 Current Focus Areas
 
-- 🤖 **LLM/GenAI** in platform operations  
-- ⚙️ Infrastructure-as-Code (Terraform + Ansible combos)  
-- 🐳 Building container-first workflows with Kubernetes
-- 📚 RHCE – *In Progress*
-- 📊 Data reliability in hybrid systems
+🤖 Applying LLMs & GenAI to enhance observability and automate incident response  
+⚙️ Designing resilient infrastructure using Terraform & Ansible (IaC at scale)  
+🐳 Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
+📈 Building GitOps workflows for consistent deployments and rollback-ready states  
+📊 Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
+📚 Preparing for RHCE + pursuing deeper Linux internals and kernel tuning  
 
 ---
 
@@ -104,3 +105,9 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 - 📧 [lukesh.b.codes@gmail.com](mailto:lukesh.b.codes@gmail.com)
 
 ---
+
+
+## 📈 GitHub Stats
+
+![Lukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeshbasnet&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeshbasnet&layout=compact&theme=radical)
