@@ -42,7 +42,7 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white)
-![Networking](https://img.shields.io/badge/TCP/IP-grey?style=flat&logo=ethernet&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-grey?style=flat&logo=ethernet&logoColor=white)
 
 
 ---
