@@ -98,9 +98,3 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 - 🐳 Kubernetes testbed with scalable mock services
 
 ---
-
-
-## 📈 GitHub Stats
-
-![Lukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukeshbasnet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeshbasnet&layout=compact&theme=radical)
