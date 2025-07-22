@@ -4,7 +4,7 @@
 🐳 Containerization Fan | ☁️ Cloud Native Advocate | ⚙️ Infrastructure as Code (Terraform & Ansible) | 📦 Kubernetes Practitioner
 
 ---
-I'm currently working on Terraform/Ansible and optimizing the codes.
+I'm currently working on Terraform/Ansible for Infra and  Detection ML model for tracking changes.
 
 ---
 
