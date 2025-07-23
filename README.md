@@ -11,16 +11,14 @@
         🤖 <strong>Machine Learning Explorer</strong> | 🐳 <strong>Containerization Enthusiast</strong><br />
         📦 <strong>Kubernetes Practitioner</strong> | ☁️ <strong>Cloud Native Advocate</strong><br />
         🔧 <strong>Site Reliability Engineer</strong> | ⚙️ <strong>Infrastructure as Code (Terraform & Ansible)</strong><br />
+        📊 <strong>Data Engineer</strong>
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="550" />
+      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="500" />
     </td>
   </tr>
 </table>
-
-
-
 
 
 ---
