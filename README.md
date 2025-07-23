@@ -109,11 +109,22 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ## 📊 GitHub Stats
 
+---
+
+## 📊 GitHub Stats: Gruvbox & Night Owl Combo
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b GitHub Stats - Night Owl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages - Night Owl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=gruvbox&hide_border=false&border_radius=8" width="45%" alt="lukesh-b GitHub Stats - Gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=nightowl&hide_border=false&border_radius=8" width="45%" alt="lukesh-b GitHub Stats - Night Owl" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=gruvbox&hide_border=false&border_radius=8" width="45%" alt="lukesh-b Top Languages - Gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="45%" alt="lukesh-b Top Languages - Night Owl" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" />
 </p>
+
+---
