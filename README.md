@@ -6,20 +6,18 @@
   <tr>
     <td>
       <h1>👋 Hi, I'm Lukesh Basnet</h1>
-      <p>
-🚀 System Engineering Expert | ⚙️ DevOps Enthusiast | 🤖 Machine Learning Explorer
-🐳 Containerization Aficionado | 📦 Kubernetes Practitioner
-☁️ Cloud Native Advocate | 🔧 Site Reliability Engineer
-⚙️ Infrastructure as Code (Terraform & Ansible) | 📊 Data Engineer
+      <p style="font-size: 18px; line-height: 1.6;">
+        🚀 <strong>System Engineering Expert</strong> | ⚙️ <strong>DevOps Enthusiast</strong> | 🤖 <strong>Machine Learning Explorer</strong><br />
+        🐳 <strong>Containerization Aficionado</strong> | 📦 <strong>Kubernetes Practitioner</strong><br />
+        ☁️ <strong>Cloud Native Advocate</strong> | 🔧 <strong>Site Reliability Engineer</strong><br />
+        ⚙️ <strong>Infrastructure as Code (Terraform & Ansible)</strong> | 📊 <strong>Data Engineer</strong>
       </p>
     </td>
     <td>
-      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="450" />
+      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="600" />
     </td>
   </tr>
 </table>
-
-
 
 ---
 
