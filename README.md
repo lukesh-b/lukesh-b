@@ -7,8 +7,8 @@
     <td>
       <h1>👋 Hi, I'm Lukesh Basnet</h1>
       <p>
-        🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 📊 Data Engineer<br>
-        🐳 Containerization Fan | ☁️ Cloud Native Advocate | ⚙️ Infrastructure as Code (Terraform & Ansible) | 📦 Kubernetes Practitioner
+🚀 System Engineering Expert | ⚙️ DevOps Enthusiast | 🤖 Machine Learning Explorer | 🐳 Containerization Aficionado | 📦 Kubernetes Practitioner
+☁️ Cloud Native Advocate | 🔧 Site Reliability Engineer| ⚙️ Infrastructure as Code (Terraform & Ansible) | 📊 Data Engineer
       </p>
     </td>
     <td>
