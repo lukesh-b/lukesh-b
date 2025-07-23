@@ -10,8 +10,7 @@
         🚀 <strong>System Engineering Expert</strong> | ⚙️ <strong>DevOps Enthusiast</strong><br />
         🤖 <strong>Machine Learning Explorer</strong> | 🐳 <strong>Containerization Enthusiast</strong><br />
         📦 <strong>Kubernetes Practitioner</strong> | ☁️ <strong>Cloud Native Advocate</strong><br />
-        🔧 <strong>Site Reliability Engineer</strong> | ⚙️ <strong>Infrastructure as Code (Terraform & Ansible)</strong><br />
-        📊 <strong>Data Engineer</strong>
+        🔧 <strong>Site Reliability Engineer</strong> | ⚙️ <strong>Infrastructure as Code (Terraform & Ansible)</strong><br /> | 📊 <strong>Data Engineer</strong>
       </p>
     </td>
     <td style="vertical-align: top;">
