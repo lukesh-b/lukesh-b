@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <h1>👋 Hi, I'm Lukesh Basnet</h1>
       <p style="font-size: 18px; line-height: 1.6;">
         🚀 <strong>System Engineering Expert</strong> | ⚙️ <strong>DevOps Enthusiast</strong> | 🤖 <strong>Machine Learning Explorer</strong><br />
@@ -13,11 +13,12 @@
         ⚙️ <strong>Infrastructure as Code (Terraform & Ansible)</strong> | 📊 <strong>Data Engineer</strong>
       </p>
     </td>
-    <td>
-      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="600" />
+    <td style="vertical-align: top;">
+      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="700" />
     </td>
   </tr>
 </table>
+
 
 ---
 
