@@ -107,10 +107,6 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ---
 
-## 📊 GitHub Stats (Advanced)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
