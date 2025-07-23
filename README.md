@@ -8,7 +8,7 @@
       <h1>👋 Hi, I'm Lukesh Basnet</h1>
       <p style="font-size: 18px; line-height: 1.8;">
         🚀 <strong>System Engineering Expert</strong> | ⚙️ <strong>DevOps Enthusiast</strong><br />
-        🤖 <strong>Machine Learning Explorer</strong> | 🐳 <strong>Containerization Aficionado</strong><br />
+        🤖 <strong>Machine Learning Explorer</strong> | 🐳 <strong>Containerization Enthusiast</strong><br />
         📦 <strong>Kubernetes Practitioner</strong> | ☁️ <strong>Cloud Native Advocate</strong><br />
         🔧 <strong>Site Reliability Engineer</strong> | ⚙️ <strong>Infrastructure as Code (Terraform & Ansible)</strong><br />
         📊 <strong>Data Engineer</strong>
@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
