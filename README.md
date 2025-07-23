@@ -15,10 +15,11 @@
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="700" />
+      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="550" />
     </td>
   </tr>
 </table>
+
 
 
 
