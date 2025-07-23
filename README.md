@@ -116,6 +116,12 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ---
 
+## 📈 GitHub Contributions
+
+![lukesh-b's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lukesh-b&theme=react-dark&area=true)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -126,6 +132,5 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" />
 </p>
-
 
 ---
