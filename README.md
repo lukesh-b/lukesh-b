@@ -69,6 +69,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A478?style=flat&logo=servicenow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
