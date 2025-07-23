@@ -116,12 +116,6 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ---
 
-## 📈 GitHub Contributions
-
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=lukesh-b&theme=github)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
