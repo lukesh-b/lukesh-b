@@ -109,23 +109,13 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ## 📊 GitHub Stats (Advanced)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukesh-b&show_icons=true&locale=en&layout=compact" alt="lukesh-b" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&locale=en" alt="lukesh-b" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&" alt="lukesh-b" />
-</p>
-
 ---
 
-## 📊 GitHub Stats (Compact View)
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=radical" width="32%" alt="lukesh-b GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=radical" width="32%" alt="lukesh-b Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=radical" width="32%" alt="lukesh-b Streak Stats" />
 </p>
+
