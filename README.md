@@ -2,14 +2,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Lukesh+Basnet;DevOps+%7C+ML+%7C+Data+Engineer;Cloud+Native+%7C+Infra+as+Code+%7C+K8s;Always+Learning+and+Building!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-<img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="300"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <h1>👋 Hi, I'm Lukesh Basnet</h1>
+      <p>
+        🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 📊 Data Engineer<br>
+        🐳 Containerization Fan | ☁️ Cloud Native Advocate | ⚙️ Infrastructure as Code (Terraform & Ansible) | 📦 Kubernetes Practitioner
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="300" />
+    </td>
+  </tr>
+</table>
 
-# 👋 Hi, I'm Lukesh Basnet
-
-🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 📊 Data Engineer  
-🐳 Containerization Fan | ☁️ Cloud Native Advocate | ⚙️ Infrastructure as Code (Terraform & Ansible) | 📦 Kubernetes Practitioner
 
 ---
 
