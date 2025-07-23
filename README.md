@@ -1,54 +1,93 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Lukesh+Basnet;DevOps+%7C+ML+%7C+Data+Engineer;Cloud+Native+%7C+Infra+as+Code+%7C+K8s;Always+Learning+and+Building!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Lukesh+Basnet;DevOps+%7C+ML+%7C+Data+Engineer;Cloud+Native+%7C+Infra+as+Code+%7C+K8s;Always+Learning+and+Building!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="300"/>
+<img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="300"/>
 </p>
 
 # 👋 Hi, I'm Lukesh Basnet
 
-🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 📊 Data Engineer  
+🚀 DevOps Enthusiast | 🤖 Machine Learning Explorer | 📊 Data Engineer
 🐳 Containerization Fan | ☁️ Cloud Native Advocate | ⚙️ Infrastructure as Code (Terraform & Ansible) | 📦 Kubernetes Practitioner
 
 ---
-I'm currently working on Terraform/Ansible for Infra and  Detection ML model for tracking changes.
+I'm currently working on Terraform/Ansible for Infra and Detection ML model for tracking changes.
 
 ---
-## 🔗 Connect With Me  
+## 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/lukesh-basnet/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/lukesh-basnet/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
 
 ## 🛠️ Tech Toolbox
-🗄️ Databases
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> </a> <a href="https://github.com/ravibpatel/RaptorDB" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ravibpatel/RaptorDB/master/logo.png" alt="RaptorDB" width="40" height="40"/> </a> </p>
-⚙️ DevOps & Infrastructure
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/null/external-active-directory-a-directory-service-that-microsoft-developed-for-windows-domain-networks-logo-shadow-tal-revivo.png" alt="Active Directory" width="40" height="40"/> </a> <a href="https://www.cisco.com/site/us/en/solutions/enterprise-networks/what-is-networking.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/40/000000/external-networking-networking-smashingstocks-flat-smashing-stocks-3.png" alt="Networking" width="40" height="40"/> </a> </p>
-💻 Programming Languages
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/> </a> </p>
-☁️ Cloud & Virtualization
-<p align="left"> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a> <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="40" height="40"/> </a> <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="ServiceNow" width="40" height="40"/> </a> </p>
-🧪 Monitoring & Observability
-<p align="left"> <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Xymon" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Xymon-logo.png" alt="Xymon" width="40" height="40"/> </a> </p>
-🧰 Tools & Version Control
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/> </a> </p>
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![RaptorDB](https://img.shields.io/badge/RaptorDB-grey?style=flat&logo=data:image/svg+xml;base64,&logoColor=white) <!-- Placeholder -->
+
+---
+
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-grey?style=flat&logo=ethernet&logoColor=white)
+
+
+---
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
+
+### ☁️ Cloud & Virtualization
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A478?style=flat&logo=servicenow&logoColor=white)
+
+---
+
+### 🧪 Monitoring & Observability
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Xymon](https://img.shields.io/badge/Xymon-grey?style=flat&logo=data:image/svg+xml;base64,&logoColor=white) <!-- Placeholder -->
+
+---
+
+### 🧰 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
 
 
 ---
 
 ## 🧠 Current Focus Areas
 
-🤖 Applying LLMs & GenAI to enhance observability and automate incident response  
-⚙️ Designing resilient infrastructure using Terraform & Ansible (IaC at scale)  
-🐳 Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
-📈 Building GitOps workflows for consistent deployments and rollback-ready states  
-📊 Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
-📚 Preparing for RHCE + pursuing deeper Linux internals and kernel tuning  
+🤖 Applying LLMs & GenAI to enhance observability and automate incident response
+⚙️ Designing resilient infrastructure using Terraform & Ansible (IaC at scale)
+🐳 Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)
+📈 Building GitOps workflows for consistent deployments and rollback-ready states
+📊 Ensuring data reliability & platform uptime across hybrid/multi-cloud systems
+📚 Preparing for RHCE + pursuing deeper Linux internals and kernel tuning
 
 ---
 
@@ -64,16 +103,16 @@ I'm currently working on Terraform/Ansible for Infra and  Detection ML model for
 
 ## 🧪 Side Projects (in progress)
 
-- 🔧 DevOps automation with Terraform + Ansible  
-- 📈 Self-healing infra dashboards using Splunk  
-- 🧠 AI Troubleshooter: internal tool for Gen AI issue diagnosis  
+- 🔧 DevOps automation with Terraform + Ansible
+- 📈 Self-healing infra dashboards using Splunk
+- 🧠 AI Troubleshooter: internal tool for Gen AI issue diagnosis
 - 🐳 Kubernetes testbed with scalable mock services
 
 ---
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
