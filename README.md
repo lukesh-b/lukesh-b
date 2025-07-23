@@ -12,10 +12,11 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="300" />
+      <img src="https://github.com/lukesh-b/lukesh-b/blob/main/images/Learning%20&%20Building%20Always.png?raw=true" width="450" />
     </td>
   </tr>
 </table>
+
 
 
 ---
