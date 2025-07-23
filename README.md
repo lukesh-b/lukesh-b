@@ -39,7 +39,6 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![RaptorDB](https://img.shields.io/badge/RaptorDB-grey?style=flat&logo=data:image/svg+xml;base64,&logoColor=white) <!-- Placeholder -->
 
 ---
 
