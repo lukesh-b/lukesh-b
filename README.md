@@ -115,7 +115,20 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=tokyonight&hide_border=false&border_radius=8" width="83%" alt="lukesh-b GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=tokyonight&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak" />
 </p>
+
+---
+
+## 🎨 Theme Previews
+
+| Tokyo Night | Gruvbox | Night Owl | GitHub Dark |
+|-------------|---------|-----------|-------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" width="150" /> | <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=gruvbox&hide_border=false&border_radius=8" width="150" /> | <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=nightowl&hide_border=false&border_radius=8" width="150" /> | <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=github_dark&hide_border=false&border_radius=8" width="150" /> |
+
+| Tokyo Night (langs) | Gruvbox (langs) | Night Owl (langs) | GitHub Dark (langs) |
+|-------------|---------|-----------|-------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" width="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=gruvbox&hide_border=false&border_radius=8" width="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=github_dark&hide_border=false&border_radius=8" width="150" /> |
+
 
 
