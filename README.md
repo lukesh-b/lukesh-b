@@ -110,8 +110,12 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=radical" width="32%" alt="lukesh-b GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=radical" width="32%" alt="lukesh-b Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=radical" width="32%" alt="lukesh-b Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" width="40%" alt="lukesh-b GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=tokyonight&hide_border=false&border_radius=8" width="83%" alt="lukesh-b GitHub Streak" />
+</p>
+
 
