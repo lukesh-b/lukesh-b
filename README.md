@@ -76,6 +76,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 ### 🧪 Monitoring & Observability
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Xymon](https://img.shields.io/badge/Xymon-grey?style=flat&logo=data:image/svg+xml;base64,&logoColor=white) <!-- Placeholder -->
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
 
