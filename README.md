@@ -118,7 +118,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ## 📈 GitHub Contributions
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lukesh-b&theme=github)
+![lukesh-b's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lukesh-b&theme=github)
 
 ---
 
