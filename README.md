@@ -128,5 +128,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages - Night Owl" />
+</p>
 ---
