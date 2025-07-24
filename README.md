@@ -120,8 +120,6 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats & Languages
-
 <table>
   <tr>
     <td align="center">
@@ -132,5 +130,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages - Night Owl" />
+</p>
 ---
