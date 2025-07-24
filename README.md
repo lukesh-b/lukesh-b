@@ -125,7 +125,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" />
+  <img src="https://streak-stats.demolab.com/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" />
 </p>
 
 ---
