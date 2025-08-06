@@ -91,8 +91,8 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ## 🧠 Current Focus Areas
 
-🤖 Applying LLMs & GenAI to enhance observability and automate incident response  
 ⚙️ Designing resilient infrastructure using Terraform & Ansible (IaC at scale)  
+🤖 Applying LLMs & GenAI to enhance observability and automate incident response  
 🐳 Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
 📈 Building GitOps workflows for consistent deployments and rollback-ready states  
 📊 Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
