@@ -112,7 +112,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 ## 🧪 Side Projects (in progress)
 
 - 🔧 DevOps automation with Terraform + Ansible  
-- 🧠 AI Troubleshooter: internal tool for Gen AI issue diagnosis  
+- 🧠 Detection-ML
 - 🐳 Kubernetes tests
 
 ---
