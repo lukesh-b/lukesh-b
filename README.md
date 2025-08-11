@@ -89,31 +89,31 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ---
 
-## 🧠 Current Focus Areas
+## Current Focus Areas
 
-⚙️ Designing resilient infrastructure using Terraform & Ansible (IaC at scale) 
-🐳 Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
-🤖 Applying LLMs & GenAI to enhance observability and automate incident response  
-📈 Building GitOps workflows for consistent deployments and rollback-ready states  
-📊 Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
-📚 Preparing for RHCE + pursuing deeper Linux internals and kernel tuning
+- Designing resilient infrastructure using Terraform & Ansible (IaC at scale) 
+- Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
+- Applying LLMs & GenAI to enhance observability and automate incident response  
+- Building GitOps workflows for consistent deployments and rollback-ready states  
+- Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
+- Preparing for RHCE + pursuing deeper Linux internals and kernel tuning
 
 ---
 
 ## 🏆 Certifications
 
-- 🐧 Red Hat Certified System Administrator (RHCSA)  
-- ☁️ Microsoft Azure Administrator (AZ-104)  
-- 📜 Cisco CCNA (200-301), CompTIA A+, Security+  
-- 🛠️ Dell PowerEdge Associate, Linux LPI (010-160)
+-  Red Hat Certified System Administrator (RHCSA)  
+-  Microsoft Azure Administrator (AZ-104)  
+-  Cisco CCNA (200-301), CompTIA A+, Security+  
+-  Dell PowerEdge Associate, Linux LPI (010-160)
 
 ---
 
 ## 🧪 Side Projects (in progress)
 
-- 🔧 DevOps automation with Terraform + Ansible  
-- 🧠 Detection-ML
-- 🐳 Kubernetes tests
+-  DevOps automation with Terraform + Ansible  
+-  Detection-ML
+-  Kubernetes tests
 
 ---
 
