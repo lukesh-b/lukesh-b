@@ -94,7 +94,6 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 - Designing resilient infrastructure using Terraform & Ansible (IaC at scale) 
 - Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
 - Applying LLMs & GenAI to enhance observability and automate incident response  
-- Building GitOps workflows for consistent deployments and rollback-ready states  
 - Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
 - Preparing for RHCE + pursuing deeper Linux internals and kernel tuning
 
