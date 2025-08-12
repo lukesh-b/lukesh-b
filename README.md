@@ -25,7 +25,7 @@
 *I'm currently working on Terraform/Ansible for Infra and Detection ML model for tracking changes. 
 While my public repos highlight selected tools and technologies, much of the hands-on work is being carried out privately — in private repos. 
 As such, not all ongoing efforts or contributions are visible here. 
-I strive to keep public-facing repos updated where possible, while focusing on my private projects which i update on the public repo depending on the progress.*
+I strive to keep public-facing repos updated where possible, while primarily focusing on private projects that are shared publicly as I progress.*
 
 ---
 
