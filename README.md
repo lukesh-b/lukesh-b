@@ -75,7 +75,7 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ---
 
-### 🧪 Monitoring & Observability
+###  Monitoring & Observability
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Xymon](https://img.shields.io/badge/Xymon-grey?style=flat&logo=data:image/svg+xml;base64,&logoColor=white) <!-- Placeholder -->
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -108,13 +108,16 @@ I'm currently working on Terraform/Ansible for Infra and Detection ML model for 
 
 ---
 
-## 🧪 Side Projects (in progress)
+## Side Projects (in progress)
 
 -  DevOps automation with Terraform + Ansible  
 -  Detection-ML
 -  Kubernetes tests
 
 ---
+*While my repos highlights selected tools and technologies, much of the hands-on work is being carried out privately — in private repos. 
+As such, not all ongoing efforts or contributions are visible here. 
+I strive to keep public-facing repos updated where possible, while focusing on my private projects which i can share later depending on the progress.*
 
 ## 📊 GitHub Stats
 
