@@ -97,7 +97,7 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 - Architecting container-native environments with Docker & Kubernetes (CI/CD pipelines, Helm)  
 - Applying LLMs & GenAI to enhance observability and automate incident response  
 - Ensuring data reliability & platform uptime across hybrid/multi-cloud systems  
-- Preparing for RHCE + pursuing deeper Linux internals and kernel tuning
+- Pursuing deeper Linux internals and Infra tunings
 
 ---
 
