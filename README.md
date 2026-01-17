@@ -120,22 +120,16 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b GitHub Stats - Night Owl" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" />
 </p>
 
-<p align="center">
-  <!-- Top Languages Alternative: WakaTime -->
-  <a href="https://wakatime.com/@lukesh-b">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages (WakaTime) - Night Owl" />
-  </a>
-</p>
 
 
 
