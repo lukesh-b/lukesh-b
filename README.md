@@ -120,8 +120,6 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lukesh-b&show_icons=true&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b GitHub Stats - Night Owl" /> </p> 
-
 <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lukesh-b&theme=nightowl&hide_border=false&border_radius=8" width="60%" alt="lukesh-b GitHub Streak - Night Owl" /> </p> 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages - Night Owl" /> </p>
