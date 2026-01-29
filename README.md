@@ -118,7 +118,7 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesh-b&layout=compact&theme=nightowl&hide_border=false&border_radius=8" width="40%" alt="lukesh-b Top Languages - Night Owl" /> </p>
 
