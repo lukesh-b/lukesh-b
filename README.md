@@ -103,7 +103,8 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 
 ## 🏆 Certifications
 
--  Red Hat Certified System Administrator (RHCSA)  
+-  Red Hat Certified System Administrator (RHCSA)
+-  Terraform Associate (004)  
 -  Microsoft Azure Administrator (AZ-104)  
 -  Cisco CCNA (200-301), CompTIA A+, Security+  
 -  Dell PowerEdge Associate, Linux LPI (010-160)
