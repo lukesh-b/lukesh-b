@@ -116,5 +116,5 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 -  DevOps automation with Terraform + Ansible  
 -  Detection-ML
 -  Kubernetes tests
--  
+
 ---
