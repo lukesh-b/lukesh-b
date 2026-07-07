@@ -21,17 +21,17 @@
 <a href="https://lukes-b.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2F7D95?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
 <a href="mailto:lukesh.basnet1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🤖 AI Platform & LLMOps
-I support and operate AI-native platform capabilities in production: Generative AI and NLU services, RAG and semantic-search pipelines (retrieval and embedding ingestion), a multi-provider LLM gateway, and LLM observability and tracing, along with LLM security guardrails (prompt-injection and jailbreak detection, PII masking / DLP) and AI Control Tower.
+## 🤖 Infra, AI Platform & LLMOps
+*I'm currently working on Iac, Kubernetes and Detection ML models for tracking changes. I also work on Generative AI , LLM, RAG, semantic-search pipelines and Ops related to AI/ML.
+While my public repos highlight selected tools and technologies, much of the hands-on work is being carried out privately — in private repos. 
+As such, not all ongoing efforts or contributions are visible here. 
+I strive to keep public-facing repos updated where possible, while primarily focusing on private projects that are shared publicly as I progress.*
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6E56CF?style=flat)
-![NLU](https://img.shields.io/badge/NLU-6E56CF?style=flat)
+![Infra](https://img.shields.io/badge/Infra-6E56CF?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-6E56CF?style=flat)
-![LLM Gateway](https://img.shields.io/badge/LLM_Gateway-6E56CF?style=flat)
-![LLM Observability](https://img.shields.io/badge/LLM_Observability-6E56CF?style=flat)
-![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-6E56CF?style=flat)
-![AIOps](https://img.shields.io/badge/AIOps-6E56CF?style=flat)
+![AIOps](https://img.shields.io/badge/AIOps-6E56CF?style=flat))
 
 ## 📌 Featured Projects
 - **[terraform-iac](https://github.com/lukesh-b/terraform-iac)**: modular AWS infrastructure with Terraform (composed network / security / compute / load-balancer modules, dev + prod environments, S3 + DynamoDB remote state with locking).
