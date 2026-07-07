@@ -50,7 +50,7 @@ I support and operate AI-native platform capabilities in production: Generative 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking%20(CCNA)-1F6FEB?style=flat&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking%20-1F6FEB?style=flat&logo=cisco&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
