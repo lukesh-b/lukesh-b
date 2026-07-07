@@ -29,9 +29,10 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6E56CF?style=flat)
 ![Infra](https://img.shields.io/badge/Infra-6E56CF?style=flat)
+![AI](https://img.shields.io/badge/AI-6E56CF?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-6E56CF?style=flat)
-![AIOps](https://img.shields.io/badge/AIOps-6E56CF?style=flat))
+![AIOps](https://img.shields.io/badge/AIOps-6E56CF?style=flat)
 
 ## 📌 Featured Projects
 - **[terraform-iac](https://github.com/lukesh-b/terraform-iac)**: modular AWS infrastructure with Terraform (composed network / security / compute / load-balancer modules, dev + prod environments, S3 + DynamoDB remote state with locking).
