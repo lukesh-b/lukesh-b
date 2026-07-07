@@ -6,8 +6,8 @@
   <tr>
     <td valign="top" width="58%">
       <h1>👋 Hi, I'm Lukesh</h1>
-      <p>My work and interests sit around <strong>Linux, Containers, Kubernetes, Databases, and Cloud Infrastructure</strong>, the layers that keep platforms running.</p>
-      <p>I'm passionate about <strong>Platform Engineering and Infrastructure Operations</strong>: automating repetitive work, writing infrastructure as code, improving reliability, and digging into root causes instead of applying quick fixes.</p>
+      <p>I work across <strong>Linux, containers, Kubernetes, databases, and cloud infrastructure</strong>, the layers that keep platforms running.</p>
+      <p>My passion is <strong>reliability engineering</strong>: clean automation, infrastructure as code, and chasing down root cause instead of patching symptoms.</p>
       <p>This is my public record of that work: hands-on infrastructure projects, built and committed in the open.</p>
     </td>
     <td valign="top" width="42%">
@@ -18,20 +18,18 @@
 
 ## 🔗 Connect
 <a href="https://www.linkedin.com/in/lukesh-basnet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://lukes-b.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2F7D95?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
 <a href="mailto:lukesh.basnet1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🤖 Infra, AI Platform & Ops
-*I'm currently working on Iac, Kubernetes and Detection ML models for tracking changes. I also work on Generative AI , LLM, RAG, semantic-search pipelines and Ops related to AI/ML.
-While my public repos highlight selected tools and technologies, much of the hands-on work is being carried out privately — in private repos. 
-As such, not all ongoing efforts or contributions are visible here. 
-I strive to keep public-facing repos updated where possible, while primarily focusing on private projects that are shared publicly as I progress.*
+## 🤖 AI Platform & LLMOps
+I support and operate AI-native platform capabilities in production: Generative AI and NLU services, RAG and semantic-search pipelines (retrieval and embedding ingestion), a multi-provider LLM gateway, and LLM observability and tracing, along with LLM security guardrails (prompt-injection and jailbreak detection, PII masking / DLP) and AI Control Tower.
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6E56CF?style=flat)
-![Infra](https://img.shields.io/badge/Infra-6E56CF?style=flat)
-![AI](https://img.shields.io/badge/AI-6E56CF?style=flat)
+![NLU](https://img.shields.io/badge/NLU-6E56CF?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-6E56CF?style=flat)
+![LLM Gateway](https://img.shields.io/badge/LLM_Gateway-6E56CF?style=flat)
+![LLM Observability](https://img.shields.io/badge/LLM_Observability-6E56CF?style=flat)
+![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-6E56CF?style=flat)
 ![AIOps](https://img.shields.io/badge/AIOps-6E56CF?style=flat)
 
 ## 📌 Featured Projects
@@ -51,7 +49,7 @@ I strive to keep public-facing repos updated where possible, while primarily foc
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking%20-1F6FEB?style=flat&logo=cisco&logoColor=white)
+![Networking (CCNA)](https://img.shields.io/badge/Networking%20(CCNA)-1F6FEB?style=flat&logo=cisco&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
