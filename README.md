@@ -6,8 +6,8 @@
   <tr>
     <td valign="top" width="58%">
       <h1>👋 Hi, I'm Lukesh</h1>
-      <p>I work across <strong>Linux, Containers, Kubernetes, Databases, and Cloud Infrastructure</strong>, the layers that keep platforms running.</p>
-      <p>My passion is <strong>Platform & Infrastructure Engineering/Operations</strong>: clean automation, infrastructure as code, and chasing down root cause instead of patching symptoms.</p>
+      <p>My work and interests sit around <strong>Linux, Containers, Kubernetes, Databases, and Cloud Infrastructure</strong>, the layers that keep platforms running.</p>
+      <p>I'm passionate about <strong>Platform Engineering and Infrastructure Operations</strong>: automating repetitive work, writing infrastructure as code, improving reliability, and digging into root causes instead of applying quick fixes.</p>
       <p>This is my public record of that work: hands-on infrastructure projects, built and committed in the open.</p>
     </td>
     <td valign="top" width="42%">
