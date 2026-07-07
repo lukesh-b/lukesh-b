@@ -21,7 +21,7 @@
 <a href="https://lukes-b.codes" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2F7D95?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
 <a href="mailto:lukesh.basnet1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🤖 Infra, AI Platform & LLMOps
+## 🤖 Infra, AI Platform & Ops
 *I'm currently working on Iac, Kubernetes and Detection ML models for tracking changes. I also work on Generative AI , LLM, RAG, semantic-search pipelines and Ops related to AI/ML.
 While my public repos highlight selected tools and technologies, much of the hands-on work is being carried out privately — in private repos. 
 As such, not all ongoing efforts or contributions are visible here. 
