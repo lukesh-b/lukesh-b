@@ -7,7 +7,7 @@
     <td valign="top" width="58%">
       <h1>👋 Hi, I'm Lukesh</h1>
       <p>I work across <strong>Linux, Containers, Kubernetes, Databases, and Cloud Infrastructure</strong>, the layers that keep platforms running.</p>
-      <p>My passion is <strong>reliability engineering</strong>: clean automation, infrastructure as code, and chasing down root cause instead of patching symptoms.</p>
+      <p>My passion is <strong>Platform & Infrastructure Engineering/Operations</strong>: clean automation, infrastructure as code, and chasing down root cause instead of patching symptoms.</p>
       <p>This is my public record of that work: hands-on infrastructure projects, built and committed in the open.</p>
     </td>
     <td valign="top" width="42%">
